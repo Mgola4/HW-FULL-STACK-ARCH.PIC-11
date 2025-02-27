@@ -1,4 +1,3 @@
-WEEK 11
 .ESLINTRC.CJS
 module.exports = {
   root: true,
@@ -278,4 +277,4 @@ const SecondPage = () => {
   );
 };
 
-export default SecondPage;
+
